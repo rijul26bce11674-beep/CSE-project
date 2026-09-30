@@ -1,3 +1,8 @@
+Name: Rijul Chandge
+Registration no. : 26BCE11674
+Faculty : M.K. Jayanti
+
+
 # Library Management System
 
 ## Project Description
